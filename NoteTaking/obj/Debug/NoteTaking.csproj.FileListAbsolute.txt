@@ -9,3 +9,14 @@ C:\Users\denpaa\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.G
 C:\Users\denpaa\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
 C:\Users\denpaa\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.exe
 C:\Users\denpaa\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.pdb
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe.config
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.exe
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\bin\Debug\NoteTaking.pdb
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.AssemblyReference.cache
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.SuggestedBindingRedirects.cache
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Notes.resources
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.Properties.Resources.resources
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.GenerateResource.cache
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.exe
+C:\Users\dpaas\source\repos\NoteTaking\NoteTaking\obj\Debug\NoteTaking.pdb
