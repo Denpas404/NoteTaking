@@ -13,7 +13,7 @@ namespace NoteTaking
     public partial class Notes : Form
     {
         DataTable table;
-
+        
         public Notes()
         {
             InitializeComponent();
@@ -29,7 +29,6 @@ namespace NoteTaking
 
             dataGridView1.Columns["Messages"].Visible = false;
             dataGridView1.Columns["Title"].Width = 335;
-
         }
 
         private void new_btn_Click(object sender, EventArgs e)
@@ -39,7 +38,7 @@ namespace NoteTaking
         }
 
         private void save_btn_Click(object sender, EventArgs e)
-        {
+        {            
             table.Rows.Add(title_txtbox.Text, message_txtbox.Text);
             title_txtbox.Clear();
             message_txtbox.Clear();
@@ -58,9 +57,11 @@ namespace NoteTaking
 
         private void delete_btn_Click(object sender, EventArgs e)
         {
-            int index = dataGridView1.CurrentCell.RowIndex;
-            
+            if (dataGridView1.CurrentCell != null)
+            {
+                int index = dataGridView1.CurrentCell.RowIndex;
                 table.Rows[index].Delete();
+            }
         }
     }
 }
